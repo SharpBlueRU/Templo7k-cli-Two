@@ -27,6 +27,11 @@ Windows
 ```
 py main.py
 ```
+
+<br>
+
+Script oficial: [link](https://github.com/templo7k/templo7k-cli)
+
 <br>
 
 > By SharpBlue
